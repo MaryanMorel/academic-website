@@ -49,7 +49,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = ""
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Ecole Polytechnique, Route de Saclay 91128 Palaiseau, France"
   office_hours = ""
   phone = ""
   skype = ""
@@ -81,10 +81,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "48.713956"
+  longitude = "2.208583"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -203,9 +203,9 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "github"
     icon_pack = "fa"
-    link = "mailto:"
+    link = "//github.com/maryanmorel"
 
   [[params.social]]
     icon = "twitter"
@@ -213,14 +213,11 @@ defaultContentLanguageInSubdir = false
     link = "//twitter.com/maryanmorel"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
-
-  [[params.social]]
-    icon = "github"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//github.com/MaryanMorel"
+    link = "//linkedin.com/in/maryanmorel"
+
+
 
 
 # Navigation Links
