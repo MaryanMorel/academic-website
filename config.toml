@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "maryan.morel@polytechnique.edu"
+  email = ""
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = ""
   phone = ""
@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:maryan.morel@polytechnique.edu"
+    link = "mailto:"
 
   [[params.social]]
     icon = "twitter"
