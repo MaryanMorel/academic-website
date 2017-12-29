@@ -218,8 +218,6 @@ defaultContentLanguageInSubdir = false
     link = "//linkedin.com/in/maryanmorel"
 
 
-
-
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -235,7 +233,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]

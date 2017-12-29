@@ -37,6 +37,6 @@ My research interests include point processes, optimization, penalization techni
 
 I am currently developing new methods to perform risk screening over large databases. My work is applied to the [SNIIRAM](https://www.ameli.fr/l-assurance-maladie/statistiques-et-publications/sniiram/finalites-du-sniiram.php), a large observational database containing electronic health records of most french citizen.
 
-I work with Python, C++, Scala + Spark. Our team is developing [tick](https://x-datainitiative.github.io/tick/), a Python machine learning library on point processes. Check it out!
+I mainly work with Python, C++, Scala and Spark. Our team is developing [tick](https://x-datainitiative.github.io/tick/), a Python machine learning library on point processes. Check it out!
 
 I like organizing hackathons for students, programming and snowboarding.
