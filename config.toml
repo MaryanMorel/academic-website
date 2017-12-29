@@ -208,6 +208,11 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/maryanmorel"
 
   [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "//arxiv.org/a/morel_m_1.html"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/maryanmorel"
@@ -216,7 +221,6 @@ defaultContentLanguageInSubdir = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/maryanmorel"
-
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
